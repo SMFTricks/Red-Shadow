@@ -4,6 +4,6 @@
 global $settings;
 
 $txt['theme_thumbnail_href'] = $settings['images_url'] . '/thumbnail.gif';
-$txt['theme_description'] = 'RedShadow.<br /><br />Author: <a href="https://smftricks.com">SMF Tricks</a>';
+$txt['theme_description'] = 'Red Shadow.<br /><br />Author: <a href="https://smftricks.com">SMF Tricks</a>';
 
 ?>
